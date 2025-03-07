@@ -1,0 +1,8 @@
+fastapi==0.100.1
+python-dotenv==1.0.1
+telnyx==2.1.5
+requests==2.31.0
+httpx==0.26.0
+retell-sdk==3.15.1
+uvicorn==0.21.1
+pydantic==2.6.0
